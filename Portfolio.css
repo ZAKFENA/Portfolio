@@ -18,8 +18,8 @@ body {
   font-family: "Playfair Display", serif;
 }
 
-.col-md-3 {
-  margin: 25px;
+.projectBlock {
+  margin: 40px;
 }
 
 .container {
