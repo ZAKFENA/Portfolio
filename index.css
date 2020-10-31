@@ -1,28 +1,20 @@
-.brandname-md-3 {
-  background-color: teal;
-  margin-left: 50px;
-}
+
 .navcontainer {
-  background-color: white;
+  background-color: rgb(208, 211, 211);
 }
 
-#brandname {
-  margin: 20px;
+.brandname {
+margin: center;
   color: white;
   font-family: "Playfair Display", serif;
 }
 
 body {
-  background-image: url("./Assets/Images/background\ imag");
-}
-
-.brandname {
-  background-color: teal;
-  font-size: 20px;
+  background-color: rgba(240, 239, 238, 0.856);
 }
 
 .container {
-  background-color: white;
+  /* background-color: rgba(240, 239, 238, 0.856); */
   margin: 50px;
 }
 
@@ -31,6 +23,18 @@ body {
 }
 
 #ProfilePic {
+  border-radius: 200px;
   float: left;
   margin-right: 20px;
 }
+
+.nav-link{
+  color: black;
+}
+
+#currentPage{
+text-align: center;
+}
+
+.links{
+margin-left: 300px;}
