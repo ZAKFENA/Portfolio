@@ -1,16 +1,17 @@
 
 .navcontainer {
-  background-color: rgb(208, 211, 211);
+  background-color: rgb(240, 240, 240);
+  text-align: center;
+  height: 15px;
 }
 
 .brandname {
-margin: center;
   color: white;
   font-family: "Playfair Display", serif;
 }
 
 body {
-  background-color: rgba(240, 239, 238, 0.856);
+  background-color: rgba(228, 228, 228, 0.856);
 }
 
 .container {
@@ -38,3 +39,23 @@ text-align: center;
 
 .links{
 margin-left: 300px;}
+
+.info{
+  align-self: center;
+}
+
+.logo{
+margin-right: 50px;  }
+
+.projectpic{
+  border-radius: 50px;
+}
+
+.projectsblock{
+  text-align: center;
+}
+
+.projectBlock{
+  /* content: url(https://zakfena.github.io/Flight-Quote-Scanner/); */
+  text-align: center;
+}
