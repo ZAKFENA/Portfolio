@@ -42,20 +42,29 @@ margin-left: 300px;}
 
 .info{
   align-self: center;
+  margin-bottom: 150px;
 }
 
 .logo{
 margin-right: 50px;  }
 
 .projectpic{
-  border-radius: 50px;
-}
+    height: 300px;
+  width: 400px;
+  border-radius: 25px;
+} 
 
 .projectsblock{
-  text-align: center;
-}
+  margin-left: 50px;
+} 
 
 .projectBlock{
   /* content: url(https://zakfena.github.io/Flight-Quote-Scanner/); */
-  text-align: center;
+ margin-left: 200px;
+}
+
+.projects{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
 }
