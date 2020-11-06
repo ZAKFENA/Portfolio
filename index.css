@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: rgba(228, 228, 228, 0.856);
+  background-color: rgb(226, 225, 225);
 }
 
 .container {
@@ -42,7 +42,7 @@ margin-left: 300px;}
 
 .info{
   align-self: center;
-  margin-bottom: 150px;
+  margin-bottom: 50px;
 }
 
 .logo{
